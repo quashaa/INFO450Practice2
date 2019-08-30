@@ -6,7 +6,7 @@ int main()
 	int value = 0, i;
 	do
 	{
-		cout << "Please enter a value below:" << endl;
+		cout << "\nPlease enter a value below:" << endl;
 		cin >> value;
 		for (i = value - 1; i > 1; i--)
 		{
